@@ -1,5 +1,5 @@
 <template>
-  <div class="text-h4">This is a Page Two</div>
+  <div class="text-h4">Strona druga</div>
 </template>
 
 <style></style>

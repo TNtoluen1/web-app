@@ -1,5 +1,5 @@
 <template>
-  <div class="text-h4">This is a Page One</div>
+  <div class="text-h4">Strona pierwsza</div>
 </template>
 
 <style></style>

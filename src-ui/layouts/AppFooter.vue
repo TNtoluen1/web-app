@@ -1,6 +1,6 @@
 <template>
-  <v-footer app border height="48">
-    <div>Copyright &copy; Company</div>
+  <v-footer app border height="280">
+    <div>Copyright &copy; Pwel Stawiszynski</div>
   </v-footer>
 </template>
 
